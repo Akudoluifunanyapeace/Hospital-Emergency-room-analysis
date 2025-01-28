@@ -46,6 +46,122 @@ The colorS used for this visual are bold, eye-catching and can be understood by 
 I created a number of visuals to show the Total patients, Avg wait time, Avg patient age, Avg satisfaction score by wait time category, total patients by age groups, total patients by patients’ race. etc.
 
 
+### The Dashboard comprises of these visuals:
+
+Total patients: the Hospital Emergency room (ER) has a total of 9,216 patients from 1st April 2023 - 30 October 2024
+
+![total patients](https://github.com/user-attachments/assets/5824185d-e476-4978-8c75-e0434803e8a5)
+
+
+Total number of males based on patients’ gender analysis is 4705
+
+Total number of females based on patient’s gender analysis is 4485
+
+![TOTAL FEMALE ND MALE](https://github.com/user-attachments/assets/9c82c996-747b-4493-adea-92f8cb2e7ee0) 
+
+
+Average patient wait time is 35.26 min
+
+![avg patient time](https://github.com/user-attachments/assets/f696f5d2-c60f-4617-9d96-1eed44a427eb)
+
+
+Average patient age is 39.86
+
+![avg p age](https://github.com/user-attachments/assets/31adf56c-bbb7-428e-953e-7d21fbf2e334)
+
+
+
+Average satisfaction score is 1.36
+
+![avg ss](https://github.com/user-attachments/assets/8894c947-4ae3-485f-b03f-b29bbc39f517)
+
+
+Average satisfaction score by wait categories: shows that patient with wait time from (1-19 min) have higher satisfactory score and patients
+with wait time from 20-34 min have the lowest satisfactory score.
+
+![avg ss by wait t](https://github.com/user-attachments/assets/962e0a41-a5b1-4caa-8fb5-330415af7fd5) 
+
+
+Average wait time by age group: shows that those that falls under the age group (25 – 38) have higher patient waiting time. 
+
+![avg wait time by age group](https://github.com/user-attachments/assets/9341952d-8a9d-4a0c-b14b-d3261bacf11a)
+
+### etc.....
+
+
+
+## HERE IS THE PICTURE OF THE DASHBOARD
+
+![hospital ER dashbord](https://github.com/user-attachments/assets/cbbffe76-371f-440b-81dc-b47042cd9c3b)
+
+
+
+## FINDINGS AND RECOMMENDATION
+
+### Base on the Analysis I found out that
+
+-	 Patients with higher wait time are less likely to report satisfactory. That is the longer a patient waits the lesser they report satisfactory.
+
+-	Patients been referred to General practice department have higher waiting time.
+
+-	From 1st April 2023 to 30 October 2024 the hospital emergency room recorded more patients within the age group of 1-24 years.
+
+
+-	Also, from 1st April 2023 to 30 October 2024 the hospital emergency room recorded the highest number of patients in the month of August with a total number of 1024 patients.
+ And recorded the lowest number of patients in the month of February with a total number of 431 patients.
+
+-	The hospital emergency room recorded 2571 whites’ patients, 1951 African patients, 1060 Asian patients, 549 patients from pacific islander,
+498 patients from Native Americans, 1557 patients from two or more race.
+
+ 	-	1030 patients refused to identify their race.
+
+-	Also, patients that falls under the age group (25 – 38) have higher patient waiting time. Etc.
+
+  ### Base on the Analysis I recommend that 
+  
+-	The Hospital should employee more medical staff (Doctors, Nurses, pharmacist, physiotherapist) etc. and non-medical staff (cleaners, security guards, secretaries, volunteers) etc.
+  in the Emergency department to reduce the patient’s waiting time.
+
+ -	Hospital Emergency department should impose a rule that requires a patient to submit a comprehensive and complete data which will include patients Nationality and Race,
+   so there won’t be any patient that cannot be identified by their race.
+
+
+  # THANK YOU !!!!!
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
