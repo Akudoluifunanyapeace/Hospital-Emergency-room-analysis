@@ -102,7 +102,7 @@ Average wait time by age group: shows that those that falls under the age group 
 
 -	 Patients with higher wait time are less likely to report satisfactory. That is the longer a patient waits the lesser they report satisfactory.
 
--	Patients been referred to General practice department have higher waiting time.
+-	Patients been referred to the General practice department have higher waiting time than other departments.
 
 -	From 1st April 2023 to 30 October 2024 the hospital emergency room recorded more patients within the age group of 1-24 years.
 
